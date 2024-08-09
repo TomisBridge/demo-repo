@@ -1,2 +1,2 @@
 # demo-repo
-gitpractise
+git practise
